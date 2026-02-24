@@ -12,7 +12,7 @@
 - Flutter / Dart  
 - Riverpod & Provider for state management  
 - REST API integration & backend workflows  
-- UI development with Material 3  
+  
 
 ---
 
