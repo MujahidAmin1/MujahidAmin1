@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer specializing in building robust mobile applications and scalable backend systems. With hands-on experience across the entire development lifecycle, I combine clean architecture principles with practical problem-solving to deliver production-ready solutions.
+I'm a passionate full-stack developer specializing in building robust mobile applications and scalable backend systems. With hands-on experience across the entire development lifecycle, I combine clean code practices with cutting-edge technologies to deliver impactful solutions.
 
 My expertise spans from intuitive mobile UIs to high-performance APIs, with a strong focus on maintainable code and seamless integrations.
 
@@ -38,6 +38,8 @@ My expertise spans from intuitive mobile UIs to high-performance APIs, with a st
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MujahidAmin1&theme=tokyonight&hide_border=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MujahidAmin1&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MujahidAmin1&show_icons=true&theme=tokyonight&hide_border=true)
 
