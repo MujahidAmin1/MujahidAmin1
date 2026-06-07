@@ -2,9 +2,9 @@
 
 # 👋 Mujahid Amin
 
-**Full-Stack Developer** | Flutter | Python | TypeScript | Backend Architecture
+**Flutter Developer** | Mobile App Specialist | TypeScript | Python
 
-> Crafting scalable mobile and backend solutions with 1+ years of professional experience
+> Building beautiful, performant mobile applications with 1+ years of professional experience
 
 </div>
 
@@ -12,24 +12,25 @@
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer specializing in building robust mobile applications and scalable backend systems. With hands-on experience across the entire development lifecycle, I combine clean code practices with cutting-edge technologies to deliver impactful solutions.
+I'm a passionate Flutter developer specializing in creating intuitive, high-performance mobile applications. With hands-on experience across the entire mobile development lifecycle, I combine clean architecture principles with modern state management patterns. I also possess foundational backend knowledge, enabling me to bridge frontend and backend solutions seamlessly.
 
-My expertise spans from intuitive mobile UIs to high-performance APIs, with a strong focus on maintainable code and seamless integrations.
+My primary focus is delivering exceptional mobile experiences, while supporting backend development when needed.
 
 ---
 
 ## 💻 Tech Stack
 
-### Mobile Development
-- **Flutter** / **Dart**
+### Mobile Development ⭐ (Primary)
+- **Flutter** / **Dart** - My core expertise
 - State Management: **Riverpod** • **Provider**
-- REST API Integration & Backend Workflows
+- UI/UX Implementation & Animation
+- REST API Integration
+- App Architecture & Best Practices
 
-### Backend Development
-- **Python**: FastAPI • Async/Await patterns
+### Backend Development (Supplementary)
 - **TypeScript**: Express.js • RESTful APIs
-- Database Design & Optimization
-- API Architecture & Integration
+- **Python**: FastAPI • Basic async patterns
+- Database Integration & API design
 
 ---
 
@@ -51,20 +52,21 @@ My expertise spans from intuitive mobile UIs to high-performance APIs, with a st
 
 ## 🎯 What I Do
 
-- 📱 **Mobile-First Development**: Building performant Flutter applications with modern state management
-- 🔧 **Backend Solutions**: Designing and implementing scalable APIs with Python & TypeScript
-- 🔌 **Seamless Integration**: Connecting frontend and backend systems efficiently
-- 📐 **System Architecture**: Creating maintainable, scalable application structures
+- 📱 **Flutter Excellence**: Building beautiful, performant mobile apps with modern patterns
+- 🎨 **UI/UX Implementation**: Translating designs into responsive, smooth user experiences
+- 🔌 **API Integration**: Connecting mobile apps to backend services efficiently
+- 📐 **Clean Architecture**: Developing maintainable, scalable mobile solutions
+- 🔧 **Backend Support**: Contributing to API design and backend development when needed
 
 ---
 
 ## 🤝 Let's Collaborate
 
 Open to exciting opportunities in:
-- Full-stack mobile development
-- Backend API design & development
-- Cloud architecture & deployment
-- Technical consulting
+- Flutter & mobile app development
+- Cross-platform application projects
+- Mobile-first solutions
+- Backend support for mobile applications
 
 Feel free to reach out for collaborations, interesting projects, or just to chat tech! 💬
 
