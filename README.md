@@ -4,7 +4,7 @@
 
 **Flutter Developer** | Mobile App Specialist | TypeScript | Python
 
-> Building beautiful, performant mobile applications with 1+ years of professional experience
+> Building beautiful, performant mobile applications with 2+ years of experience
 
 </div>
 
