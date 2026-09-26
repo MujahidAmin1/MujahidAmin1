@@ -40,11 +40,7 @@ My primary focus is delivering exceptional mobile experiences, while supporting 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MujahidAmin1&theme=tokyonight&hide_border=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MujahidAmin1&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MujahidAmin1&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MujahidAmin1&layout=compact&theme=tokyonight&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats-delta-six-30.vercel.app/api?username=mustapha-amin&show_icons=true&theme=radical)
 
 </div>
 
