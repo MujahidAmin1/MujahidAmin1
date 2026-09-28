@@ -2,7 +2,7 @@
 
 # 👋 Mujahid Amin
 
-**Flutter Developer** | Mobile App Specialist | TypeScript | Python
+**Mobile Engineer** | **Backend Developer**
 
 > Building beautiful, performant mobile applications with 2+ years of experience
 
